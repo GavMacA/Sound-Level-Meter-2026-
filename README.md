@@ -104,7 +104,7 @@ Sound-Level-Meter/
     └── sound_level_meter.kicad_pcb
 ```
 ---
-## My Contribrution
+## My Contribution
 In this project my primary responsibilities included:
 - Signal Conditioning (Amplification, Impedance Adaptation, Villard Circuit)
   - Analogue circuit design
